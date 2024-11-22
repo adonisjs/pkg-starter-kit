@@ -106,7 +106,11 @@ Feel free to explore the `tsconfig.json` file for all the configured options.
 
 ## ESLint and Prettier setup
 
-The starter kit configures ESLint and Prettier. Both configurations are stored within the `package.json` file and use our [shared config](https://github.com/adonisjs/tooling-config/tree/main/packages). Feel free to change the configuration, use custom plugins, or remove both tools altogether.
+The starter kit configures ESLint and Prettier
+using our [shared config](https://github.com/adonisjs/tooling-config/tree/main/packages).
+ESLint configuration is stored within the `eslint.config.js` file.
+Prettier configuration is stored within the `package.json` file.
+Feel free to change the configuration, use custom plugins, or remove both tools altogether.
 
 ## Using Stale bot
 
