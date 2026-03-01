@@ -1,5 +1,8 @@
 # AdonisJS package starter kit
 
+> [!note]
+> This starter kit targets **AdonisJS v7**
+
 > A boilerplate for creating AdonisJS packages
 
 This repo provides you with a starting point for creating AdonisJS packages. Of course, you can create a package from scratch with your folder structure and workflow. However, using this starter kit can speed up the process, as you have fewer decisions to make.
