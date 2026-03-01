@@ -7,11 +7,11 @@
 | command. You are free to perform any operations inside this function to
 | configure the package.
 |
-| To make things easier, you have access to the underlying "ConfigureCommand"
+| To make things easier, you have access to the underlying "Configure"
 | instance and you can use codemods to modify the source files.
 |
 */
 
-import ConfigureCommand from '@adonisjs/core/commands/configure'
+import type Configure from '@adonisjs/core/commands/configure'
 
-export async function configure(_command: ConfigureCommand) {}
+export async function configure(_command: Configure) {}
