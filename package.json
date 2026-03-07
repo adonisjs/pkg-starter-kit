@@ -37,7 +37,7 @@
   "license": "MIT",
   "devDependencies": {
     "@adonisjs/assembler": "^8.0.0",
-    "@adonisjs/core": "^7.0.0",
+    "@adonisjs/core": "^7.0.1",
     "@adonisjs/eslint-config": "^3.0.0",
     "@adonisjs/prettier-config": "^1.4.5",
     "@adonisjs/tsconfig": "^2.0.0",
@@ -45,14 +45,14 @@
     "@japa/runner": "^5.3.0",
     "@poppinss/ts-exec": "^1.4.4",
     "@release-it/conventional-changelog": "^10.0.5",
-    "@types/node": "^25.3.3",
+    "@types/node": "^25.3.5",
     "c8": "^11.0.0",
     "copyfiles": "^2.4.1",
     "cross-env": "^10.1.0",
-    "eslint": "^10.0.2",
+    "eslint": "^10.0.3",
     "prettier": "^3.8.1",
     "release-it": "^19.2.4",
-    "tsdown": "^0.20.3",
+    "tsdown": "^0.21.0",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
